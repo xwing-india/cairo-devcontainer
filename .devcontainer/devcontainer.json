@@ -3,6 +3,7 @@
 {
   "name": "Cairo",
   "build": { "dockerfile": "Dockerfile" },
+  
   "features": {},
   "extensions": ["Starkware.cairo"]
 }
