@@ -25,7 +25,7 @@ https://docs.starknet.io/documentation/getting_started/
 If you need a local Devnet instead of a testnet, no worries.
 Since cairo-nile and its dependencies are all installed, you can start developing nile immediately with the following command.
 ```bash
-cairo init
+ init
 ```
 https://github.com/OpenZeppelin/nile
 
